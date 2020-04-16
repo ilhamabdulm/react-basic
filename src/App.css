@@ -1,5 +1,14 @@
+body {
+  background: url('./assets/pokemon-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .App-logo {

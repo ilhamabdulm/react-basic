@@ -1,0 +1,10 @@
+.card {
+  border-radius: 74px;
+  background: #a6cacb;
+  box-shadow: 10px 10px 39px #60de7f;
+  margin: 20px;
+}
+.card:hover {
+  transform: scale(1.1);
+  transition-duration: 10ms;
+}
